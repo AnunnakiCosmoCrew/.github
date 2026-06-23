@@ -24,4 +24,4 @@ A personal word notebook that turns everyday vocabulary discoveries into lasting
 
 ---
 
-📫 **Get in touch** — [merty.ertugrul@gmail.com](mailto:merty.ertugrul@gmail.com)
+📫 **Get in touch** — [contact@cosmocrew.dev](mailto:contact@cosmocrew.dev)
