@@ -1,6 +1,6 @@
-# Anunnaki Crew
+# Anunnaki Cosmo Crew
 
-Anunnaki Crew is a small independent software studio building thoughtfully designed apps for **productivity** and **learning** — with an emphasis on clean design and calm, focused user experiences.
+Anunnaki Cosmo Crew is a small independent software studio building thoughtfully designed apps for **productivity** and **learning** — with an emphasis on clean design and calm, focused user experiences.
 
 ## Products
 
@@ -18,6 +18,7 @@ A calm visual day planner with a built-in Pomodoro timer. SliceFocus lays your d
 
 A personal word notebook that turns everyday vocabulary discoveries into lasting knowledge. Collect words from daily life, and let LexiPower teach you their meaning, spelling, pronunciation, and related vocabulary — through quizzes, flashcards, and spaced repetition.
 
+- 📲 App Store — [Download for iOS](https://apps.apple.com/app/id6766093282)
 - 🆘 Support — [Help & support page](https://anunnakicosmocrew.github.io/lexipower-support/)
 - 📖 Documentation — [WordPower-docs](https://github.com/AnunnakiCosmoCrew/WordPower-docs)
 
