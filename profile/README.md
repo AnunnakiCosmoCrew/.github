@@ -1,8 +1,17 @@
 # Anunnaki Cosmo Crew
 
-Anunnaki Cosmo Crew is a small independent software studio building thoughtfully designed apps for **productivity** and **learning** — with an emphasis on clean design and calm, focused user experiences.
+Anunnaki Cosmo Crew is the engineering organization of **[Luvita](https://luvita.tr)** — a software company in Bodrum, Türkiye, building its own products end to end: enterprise platforms under the Luvita brand, and thoughtfully designed consumer apps for **productivity** and **learning** with an emphasis on clean design and calm, focused user experiences.
 
-## Products
+## Platforms
+
+### Umay
+**Turkish-first AI agent platform.**
+
+A programmable platform where AI agents handle customer conversations in natural Turkish, act in business systems for bookings, orders and tickets, and hand off to a human when needed. In development.
+
+- 🌐 Website — [umayconnect.org](https://umayconnect.org)
+
+## Consumer apps — CosmoCrew
 
 ### SliceFocus
 **Plan your day on a clock. It runs itself.**
@@ -24,4 +33,4 @@ A personal word notebook that turns everyday vocabulary discoveries into lasting
 
 ---
 
-📫 **Get in touch** — [contact@cosmocrew.dev](mailto:contact@cosmocrew.dev)
+📫 **Get in touch** — company: [luvita.tr](https://luvita.tr) · [contact@luvita.tr](mailto:contact@luvita.tr) — consumer apps: [contact@cosmocrew.dev](mailto:contact@cosmocrew.dev)
